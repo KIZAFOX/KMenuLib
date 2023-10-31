@@ -1,0 +1,5 @@
+name: KMenuLib
+version: "1.0"
+author: KIZAFOX
+main: fr.kizafox.kmenulib.KMenuLib
+api-version: 1.20
